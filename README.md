@@ -21,6 +21,16 @@
 </p>
 
 
+  <div class="container" style="width: 90%; max-width: 800px;">
+    <div class="top-image" style="display: flex; justify-content: center; margin-bottom: 20px;">
+      <img src="https://via.placeholder.com/800x300" alt="Imagen superior" style="width: 100%; max-width: 100%; height: auto;">
+    </div>
+    <div class="bottom-images" style="display: flex; justify-content: space-between;">
+      <img src="https://via.placeholder.com/400x300" alt="Imagen inferior izquierda" style="width: 49%; height: auto;">
+      <img src="https://via.placeholder.com/400x300" alt="Imagen inferior derecha" style="width: 49%; height: auto;">
+    </div>
+  </div>
+</body>
 
 <h2 align="center">🚀 Estadísticas de GitHub</h2>
 <div align="center" style="display: flex; flex-direction: column; gap: 20px; max-width: 100%;">
