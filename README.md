@@ -20,26 +20,21 @@
 
 <img src="https://github.com/WardedC/WardedC/blob/output/snake.svg"/>
 
-<div class="contenedor" style="display: flex; justify-content: space-between; gap: 20px;">
-        
-  <div class="columna" style="flex: 1; text-align: center; padding: 10px; border: 1px solid #ccc;">
-            <h2 align="center">🚀 Tecnologías que domino</h2>
+<div align="center" style="display: flex; flex-direction: column; gap: 20px; max-width: 100%;">
+    <div style="display: flex; justify-content: center; margin-bottom: 20px;">
+      <h2 align="center">🚀 Tecnologías que domino</h2>
             <div class="iconos" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
                <img src="https://skillicons.dev/icons?i=html,css,angular,js,ts" alt="Tech stack" />
             </div>
-        </div>
-
-  <div class="columna" style="flex: 2; text-align: center; padding: 10px; border: 1px solid #ccc;">
-            <h2 align="center">🌱 Tecnologías que estoy aprendiendo</h2>
+    </div>
+    <div class="bottom-images" style="display: flex; justify-content: space-between;">
+      <h2 align="center">🌱 Tecnologías que estoy aprendiendo</h2>
             <div class="iconos" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
                  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,sql" alt="Learning stack" />
             </div>
-        </div>
+    </div>
+  </div>
 </div>
-
-
-
-
 
 ---
 
