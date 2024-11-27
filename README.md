@@ -23,11 +23,11 @@
 
   <div class="container" style="width: 90%; max-width: 800px;">
     <div class="top-image" style="display: flex; justify-content: center; margin-bottom: 20px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WardedC&layout=compact&theme=radical" alt="Imagen superior" style="width: 100%; max-width: 100%; height: auto;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WardedC&layout=compact&theme=radical" alt="Imagen superior" style="width: 40%; max-width: 100%; height: auto;">
     </div>
     <div class="bottom-images" style="display: flex; justify-content: space-between;">
-      <img src="https://github-readme-stats.vercel.app/api?username=WardedC&show_icons=true&theme=radical" alt="Imagen inferior izquierda" style="width: 49%; height: auto;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=WardedC&theme=radical" alt="Imagen inferior derecha" style="width: 49%; height: auto;">
+      <img src="https://github-readme-stats.vercel.app/api?username=WardedC&show_icons=true&theme=radical" alt="Imagen inferior izquierda" style="width: 40%; height: auto;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=WardedC&theme=radical" alt="Imagen inferior derecha" style="width: 40%; height: auto;">
     </div>
   </div>
 </body>
