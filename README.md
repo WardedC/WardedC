@@ -21,33 +21,15 @@
 </p>
 
 
-  <div class="container" style="width: 90%; max-width: 800px;">
+<h2 align="center">🚀 Estadísticas de GitHub</h2>
+<div align="center" style="display: flex; flex-direction: column; gap: 20px; max-width: 100%;">
+    <div class="container" style="width: 90%; max-width: 800px;">
     <div class="top-image" style="display: flex; justify-content: center; margin-bottom: 20px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WardedC&layout=compact&theme=radical" alt="Imagen superior" style="width: 40%; max-width: 100%; height: auto;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=WardedC&theme=radical" alt="Imagen superior" style="width: 40%; max-width: 100%; height: auto;">
     </div>
     <div class="bottom-images" style="display: flex; justify-content: space-between;">
       <img src="https://github-readme-stats.vercel.app/api?username=WardedC&show_icons=true&theme=radical" alt="Imagen inferior izquierda" style="width: 40%; height: auto;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=WardedC&theme=radical" alt="Imagen inferior derecha" style="width: 40%; height: auto;">
-    </div>
-  </div>
-</body>
-
-<h2 align="center">🚀 Estadísticas de GitHub</h2>
-<div align="center" style="display: flex; flex-direction: column; gap: 20px; max-width: 100%;">
-  <!-- Estadísticas Generales (Centradas en la parte superior) -->
-  <div style="flex: 1">
-    <img src="https://github-readme-stats.vercel.app/api?username=WardedC&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 40%; max-width: 100px;" />
-  </div>
-
-  <!-- Estadísticas en la Parte Inferior (Lado a Lado) -->
-  <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <!-- Racha de Contribuciones -->
-    <div style="flex: 1">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=WardedC&theme=radical" alt="GitHub Streak" style="width: 40%; max-width: 100px;" />
-    </div>
-    <!-- Lenguajes Más Utilizados -->
-    <div style="flex: 2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WardedC&layout=compact&theme=radical" alt="Top Languages" style="width: 40%; max-width: 100px;" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WardedC&layout=compact&theme=radical" alt="Imagen inferior derecha" style="width: 40%; height: auto;">
     </div>
   </div>
 </div>
