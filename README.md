@@ -1,40 +1,9 @@
-# 👋 ¡Hola! Soy [Tu Nombre/Usuario]
+<h1 align="center">Hi 👋, I'm Edward Cabrera</h1>
+<h3 align="center">A passionate fronteMe encanta construir aplicaciones web modernas, aprender nuevas tecnologías y resolver problemas complejos. 💡 Actualmente estoy explorando el desarrollo backend y los fundamentos de la ciencia de datos.nd developer from India</h3>
 
-👨‍💻 **Ingeniero en Sistemas apasionado por la tecnología**. 
-Me encanta construir aplicaciones web modernas, aprender nuevas tecnologías y resolver problemas complejos. 💡 Actualmente estoy explorando el desarrollo backend y los fundamentos de la ciencia de datos.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
----
-
-## 🚀 Tecnologías que domino
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,angular,js,ts" alt="Tech stack" />
-</div>
-
----
-
-## 🌱 Tecnologías que estoy aprendiendo
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,sql" alt="Learning stack" />
-</div>
-
----
-
-## 📈 Estadísticas de GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WardedC&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WardedC&theme=radical" alt="GitHub Streak" />
-</div>
-
-
-## 🌐 Encuéntrame en:
-- **LinkedIn**: [Mi perfil](https://linkedin.com/in/tu_usuario)
-- **Twitter**: [@tu_usuario](https://twitter.com/tu_usuario)
-- **Dev.to**: [@tu_usuario](https://dev.to/tu_usuario)
-
-¡Gracias por visitar mi perfil! 🌟  
-¿Colaboramos en algún proyecto? 💻
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-Let's%20Connect!-red?style=for-the-badge" alt="Let's Connect" />
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
