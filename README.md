@@ -1,4 +1,4 @@
- ![snake gif](https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif)
+ ![snake gif](https://github.com/WardedC/WardedC/blob/output/line-neon.gif)
 <h1 align="center">👋 ¡Hola! Soy <strong>Edward Cabrera</strong></h1>
   💻 <strong>Ingeniero en Sistemas apasionado por la tecnología.</strong><br>
   Me encanta construir aplicaciones web modernas, aprender nuevas tecnologías y resolver problemas complejos. 💡<br>
