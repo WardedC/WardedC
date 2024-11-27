@@ -23,7 +23,7 @@
 
 
 <h2 align="center">🚀 Estadísticas de GitHub</h2>
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px; max-width: 100%;">
+<div align="center" style="display: flex; flex-direction: column; gap: 20px; max-width: 100%;">
   <!-- Estadísticas Generales (Centradas en la parte superior) -->
   <div style="flex: 1">
     <img src="https://github-readme-stats.vercel.app/api?username=WardedC&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 40%; max-width: 100px;" />
