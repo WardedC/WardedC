@@ -26,17 +26,6 @@ Me encanta construir aplicaciones web modernas, aprender nuevas tecnologías y r
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical" alt="GitHub Streak" />
 </div>
 
----
-
-## ✍️ Artículos en Dev.to
-📝 Me encanta compartir mi conocimiento con la comunidad. Echa un vistazo a mis artículos más recientes:
-- [Cómo iniciarte con Angular y TypeScript](https://dev.to/usuario/como-iniciarte-angular)
-- [Top 5 consejos para aprender C# y .NET](https://dev.to/usuario/top-5-consejos-cs-dotnet)
-- [La importancia de dominar SQL en el desarrollo web](https://dev.to/usuario/importancia-sql)
-
-*¿Quieres más? Visita mi perfil completo en [Dev.to](https://dev.to/usuario).* 🚀
-
----
 
 ## 🌐 Encuéntrame en:
 - **LinkedIn**: [Mi perfil](https://linkedin.com/in/tu_usuario)
