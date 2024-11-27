@@ -72,3 +72,5 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Let's%20Connect!-red?style=for-the-badge" alt="Let's Connect" />
 </p>
+
+<img src="https://github.com/WardedC/WardedC/blob/output/line-neon.gif" width="100%"/>
