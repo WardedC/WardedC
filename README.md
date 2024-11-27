@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kogisin/kogisin/main/assets/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" width="600" />
+<img src="https://raw.githubusercontentraw.githubusercontent.com/WardedC/maurodesouza/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
