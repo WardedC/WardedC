@@ -23,24 +23,9 @@
 
 <h2 align="center">📈 Estadísticas de GitHub</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WardedC&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-<h2 align="center">✍️ Artículos en Dev.to</h2>
-<p align="center">
-  📝 Me encanta compartir mi conocimiento con la comunidad. Echa un vistazo a mis artículos más recientes:
-</p>
-<ul>
-  <li><a href="https://dev.to/usuario/como-iniciarte-angular" target="_blank">Cómo iniciarte con Angular y TypeScript</a></li>
-  <li><a href="https://dev.to/usuario/top-5-consejos-cs-dotnet" target="_blank">Top 5 consejos para aprender C# y .NET</a></li>
-  <li><a href="https://dev.to/usuario/importancia-sql" target="_blank">La importancia de dominar SQL en el desarrollo web</a></li>
-</ul>
-<p align="center">
-  <strong>¿Quieres más?</strong> Visita mi perfil completo en <a href="https://dev.to/usuario" target="_blank">Dev.to</a> 🚀
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WardedC&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
