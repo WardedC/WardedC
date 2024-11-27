@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola! Soy <strong>Edward F. Cabrera</strong></h1>
+<h1 align="center">👋 ¡Hola! Soy <strong>[Tu Nombre/Usuario]</strong></h1>
 <p align="center">
   👨‍💻 <strong>Ingeniero en Sistemas apasionado por la tecnología.</strong><br>
   Me encanta construir aplicaciones web modernas, aprender nuevas tecnologías y resolver problemas complejos. 💡<br>
@@ -22,13 +22,25 @@
 ---
 
 <h2 align="center">📈 Estadísticas de GitHub</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WardedC&show_icons=true&theme=radical" alt="GitHub Stats" />
+<div align="center">
+  <!-- Stats Overview -->
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WardedC&theme=radical" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WardedC&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"     height="150" alt="languages graph"  />
 
+  <!-- Contribution Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical" alt="GitHub Streak" />
+  <br />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" alt="Top Languages" />
+  <br />
+</div>
+
+---
+
+<h2 align="center">📊 Grid de mis contribuciones</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=radical" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -41,8 +53,8 @@
   <a href="https://twitter.com/tu_usuario" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter">
   </a>
-  <a href="https://dev.to/tu_usuario" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?logo=dev.to&logoColor=white&style=for-the-badge" alt="Dev.to">
+  <a href="https://github.com/TU_USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
   </a>
 </p>
 
