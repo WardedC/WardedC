@@ -5,7 +5,6 @@
   Actualmente estoy explorando el desarrollo backend y los fundamentos de la ciencia de datos.
 </p>
 
----
 
 <h2 align="center">🚀 Tecnologías que domino</h2>
 <p align="center">
@@ -39,14 +38,9 @@
   </div>
 </div>
 
----
 
 <p align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="Coding Gif" width="500" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kogisin/kogisin/main/assets/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" width="600" />
 </p>
 
 ---
