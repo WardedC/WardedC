@@ -24,7 +24,7 @@
 <h2 align="center">🚀 Estadísticas de GitHub</h2>
 <div align="center" style="display: flex; flex-direction: column; gap: 20px; max-width: 100%;">
     <div class="top-image" style="display: flex; justify-content: center; margin-bottom: 20px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=WardedC&theme=radical" alt="Imagen superior" style="width: 40%; max-width: 100%; height: auto;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=WardedC&theme=radical" alt="Imagen superior" style="width: 60%; max-width: 100%; height: auto;">
     </div>
     <div class="bottom-images" style="display: flex; justify-content: space-between;">
       <img src="https://github-readme-stats.vercel.app/api?username=WardedC&show_icons=true&theme=radical" alt="Imagen inferior izquierda" style="width: 45%; height: auto;">
