@@ -1,6 +1,6 @@
 <h1 align="center">👋 ¡Hola! Soy <strong>Edward Cabrera</strong></h1>
 <p align="center">
-  👨‍💻 <strong>Ingeniero en Sistemas apasionado por la tecnología.</strong><br>
+  💻 <strong>Ingeniero en Sistemas apasionado por la tecnología.</strong><br>
   Me encanta construir aplicaciones web modernas, aprender nuevas tecnologías y resolver problemas complejos. 💡<br>
   Actualmente estoy explorando el desarrollo backend y los fundamentos de la ciencia de datos.
 </p>
@@ -21,26 +21,23 @@
 
 ---
 
-<h2 align="center">📈 Estadísticas de GitHub</h2>
-<div align="center">
+<h2 align="center">📊 Estadísticas de GitHub</h2>
+<div align="center" style="display: flex; justify-content: center;">
   <!-- Stats Overview -->
   <img src="https://github-readme-stats.vercel.app/api?username=WardedC&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-
+  
   <!-- Contribution Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=WardedC&theme=radical" alt="GitHub Streak" />
-  <br />
-
+  
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WardedC&layout=compact&theme=radical" alt="Top Languages" />
-  <br />
 </div>
 
 ---
 
 <h2 align="center">📊 Grid de mis contribuciones</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WardedC&theme=radical" alt="GitHub Activity Graph" />
+  <img src="https://github.com/WardedC/WardedC/blob/main/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid" />
 </p>
 
 ---
