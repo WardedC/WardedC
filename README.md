@@ -22,15 +22,21 @@
 ---
 
 <h2 align="center">📊 Estadísticas de GitHub</h2>
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px; max-width: 100%;">
   <!-- Stats Overview -->
-  <img src="https://github-readme-stats.vercel.app/api?username=WardedC&show_icons=true&theme=radical" alt="GitHub Stats" style="animation: bounce 3s infinite;" />
+  <div style="flex: 1; min-width: 300px; max-width: 400px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=WardedC&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 100%;" />
+  </div>
   
   <!-- Contribution Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WardedC&theme=radical" alt="GitHub Streak" style="animation: bounce 3s infinite; animation-delay: 1s;" />
+  <div style="flex: 1; min-width: 300px; max-width: 400px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=WardedC&theme=radical" alt="GitHub Streak" style="width: 100%;" />
+  </div>
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WardedC&layout=compact&theme=radical" alt="Top Languages" style="animation: bounce 3s infinite; animation-delay: 2s;" />
+  <div style="flex: 1; min-width: 300px; max-width: 400px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WardedC&layout=compact&theme=radical" alt="Top Languages" style="width: 100%;" />
+  </div>
 </div>
 
 ---
@@ -67,17 +73,3 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Let's%20Connect!-red?style=for-the-badge" alt="Let's Connect" />
 </p>
-
-<style>
-@keyframes bounce {
-  0%, 20%, 50%, 80%, 100% {
-    transform: translateY(0); 
-  }
-  40% {
-    transform: translateY(-20px);
-  }
-  60% {
-    transform: translateY(-10px);
-  }
-}
-</style>
