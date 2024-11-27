@@ -39,7 +39,7 @@
 </p>
 </p>
 
-
+<!-- Primera Columna 
 <table style="width: 100%; height: 300px; border-collapse: collapse; table-layout: fixed;">
     <tr>
         <!-- Primera Columna -->
@@ -53,7 +53,6 @@
             <img src="https://skillicons.dev/icons?i=cs,dotnet,python,sql" alt="Learning stack" />
         </td>
     </tr>
-</table>
 
 <h2 align="center">🌐 Encuéntrame en:</h2>
 <p align="center">
