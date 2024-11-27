@@ -36,18 +36,19 @@
 
 <div style="display: flex; flex-direction: column; gap: 20px;">
   <!-- Fila Template -->
-  <div style="display: flex; gap: 20px;">
-    <div style="flex: 1; background-color: #f0f0f0; padding: 10px;">
+  <div style="display: flex; gap: 20px; flex-wrap: wrap;">
+    <div style="flex: 1; min-width: 200px; background-color: #f0f0f0; padding: 10px;">
       <h3>Título Columna 1</h3>
       <p>Aquí va el contenido de la columna 1 de esta fila.</p>
     </div>
-    <div style="flex: 1; background-color: #f0f0f0; padding: 10px;">
+    <div style="flex: 1; min-width: 200px; background-color: #f0f0f0; padding: 10px;">
       <h3>Título Columna 2</h3>
       <p>Aquí va el contenido de la columna 2 de esta fila.</p>
     </div>
   </div>
   <!-- Fin Fila Template -->
 </div>
+
 
 ---
 
