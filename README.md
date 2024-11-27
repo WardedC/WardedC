@@ -20,21 +20,22 @@
 
 ---
 
-<h2 align="center">📊 Estadísticas de GitHub</h2>
+<h2 align="center">🚀 Estadísticas de GitHub</h2>
 <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px; max-width: 100%;">
-  <!-- Stats Overview - Centered at the Top -->
+  <!-- Estadísticas Generales (Centradas en la parte superior) -->
   <div style="flex: 1; min-width: 200px; max-width: 600px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=WardedC&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 40%;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=WardedC&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 100%; max-width: 400px;" />
   </div>
 
-  <!-- Stats Side by Side Below -->
-  <div style="display: flex; flex-wrap: nowrap; justify-content: center; align-items: center; gap: 10px;">
-    <!-- Contribution Streak -->
+  <!-- Estadísticas en la Parte Inferior (Lado a Lado) -->
+  <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <!-- Racha de Contribuciones -->
     <div style="flex: 1; min-width: 200px; max-width: 300px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=WardedC&theme=radical" alt="GitHub Streak" style="width: 40%;" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=WardedC&theme=radical" alt="GitHub Streak" style="width: 100%; max-width: 300px;" />
     </div>
+    <!-- Lenguajes Más Utilizados -->
     <div style="flex: 1; min-width: 200px; max-width: 300px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WardedC&layout=compact&theme=radical" alt="Top Languages" style="width: 40%;" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WardedC&layout=compact&theme=radical" alt="Top Languages" style="width: 100%; max-width: 300px;" />
     </div>
   </div>
 </div>
