@@ -20,15 +20,15 @@
 
 <img src="https://github.com/WardedC/WardedC/blob/output/snake.svg"/>
 
-<table style="width: 100%; height: 300px; border-collapse: collapse; table-layout: fixed;">
+<table style="width: 100%; border-collapse: collapse;">
     <tr>
         <!-- Primera Columna -->
-        <td style="border: 1px solid #ccc; text-align: center; vertical-align: middle; padding: 10px;">
+        <td style="width: 50%; text-align: center; border: 1px solid #ccc; padding: 10px;">
             <h2 align="center">🚀 Tecnologías que domino</h2>
             <img src="https://skillicons.dev/icons?i=html,css,angular,js,ts" alt="Tech stack" />
         </td>
         <!-- Segunda Columna -->
-        <td style="border: 1px solid #ccc; text-align: center; vertical-align: middle; padding: 10px;">
+        <td style="width: 50%; text-align: center; border: 1px solid #ccc; padding: 10px;">
             <h2>Título 2</h2>
             <div style="width: 40px; height: 40px; background-color: #ddd; display: flex; align-items: center; justify-content: center; border-radius: 50%;">B</div>
         </td>
