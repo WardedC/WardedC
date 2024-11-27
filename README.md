@@ -1,5 +1,7 @@
+ <img src="https://github.com/WardedC/WardedC/blob/output/line-neon.gif" width="100%/>
  ![snake gif](https://github.com/WardedC/WardedC/blob/output/line-neon.gif)
 <h1 align="center">👋 ¡Hola! Soy <strong>Edward Cabrera</strong></h1>
+<p align="center">
   💻 <strong>Ingeniero en Sistemas apasionado por la tecnología.</strong><br>
   Me encanta construir aplicaciones web modernas, aprender nuevas tecnologías y resolver problemas complejos. 💡<br>
   Actualmente estoy explorando el desarrollo backend y los fundamentos de la ciencia de datos.
