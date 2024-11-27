@@ -22,20 +22,20 @@
 ---
 
 <h2 align="center">📊 Estadísticas de GitHub</h2>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px; max-width: 50%;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px; max-width: 20%;">
   <!-- Stats Overview -->
   <div style="flex: 1; min-width: 300px; max-width: 400px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=WardedC&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 50%;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=WardedC&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 20%;" />
   </div>
   
   <!-- Contribution Streak -->
   <div style="flex: 1; min-width: 300px; max-width: 400px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=WardedC&theme=radical" alt="GitHub Streak" style="width: 50%;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=WardedC&theme=radical" alt="GitHub Streak" style="width: 20%;" />
   </div>
   
   <!-- Top Languages -->
   <div style="flex: 1; min-width: 300px; max-width: 400px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WardedC&layout=compact&theme=radical" alt="Top Languages" style="width: 50%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WardedC&layout=compact&theme=radical" alt="Top Languages" style="width: 20%;" />
   </div>
 </div>
 
