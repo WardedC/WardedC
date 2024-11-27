@@ -27,7 +27,7 @@
       <h2>🚀 Tecnologías que domino</h2>
       <img src="https://skillicons.dev/icons?i=html,css,angular,js,ts" alt="Tech stack" />
     </div>
-    <div style="flex: 1; background-color: #f0f0f0; padding: 10px;">
+    <div style="flex: 2; background-color: #f0f0f0; padding: 10px;">
       <h2>🌱 Tecnologías que estoy aprendiendo</h2>
        <img src="https://skillicons.dev/icons?i=cs,dotnet,python,sql" alt="Learning stack" />
     </div>
