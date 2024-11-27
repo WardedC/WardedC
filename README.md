@@ -1,5 +1,4 @@
- <img src="https://github.com/WardedC/WardedC/blob/output/line-neon.gif" width="100%/>
- ![snake gif](https://github.com/WardedC/WardedC/blob/output/line-neon.gif)
+<img src="https://github.com/WardedC/WardedC/blob/output/line-neon.gif" width="100%"/>
 <h1 align="center">👋 ¡Hola! Soy <strong>Edward Cabrera</strong></h1>
 <p align="center">
   💻 <strong>Ingeniero en Sistemas apasionado por la tecnología.</strong><br>
