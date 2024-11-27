@@ -25,12 +25,12 @@
     <!-- Fila Template -->
     <div style="display: flex; gap: 20px;">
       <div style="flex: 1; background-color: #f0f0f0; padding: 10px;">
-        <h2>🚀 Tecnologías que domino</h2>
-        <img src="https://skillicons.dev/icons?i=html,css,angular,js,ts" alt="Tech stack" />
+        <h2 align="center">🚀 Tecnologías que domino</h2>
+        <img align="center" src="https://skillicons.dev/icons?i=html,css,angular,js,ts" alt="Tech stack" />
       </div>
       <div style="flex: 2; background-color: #f0f0f0; padding: 10px;">
-        <h2>🌱 Tecnologías que estoy aprendiendo</h2>
-        <img src="https://skillicons.dev/icons?i=cs,dotnet,python,sql" alt="Learning stack" />
+        <h2 align="center">🌱 Tecnologías que estoy aprendiendo</h2>
+        <img align="center" src="https://skillicons.dev/icons?i=cs,dotnet,python,sql" alt="Learning stack" />
       </div>
     </div>
   </div>
