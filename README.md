@@ -20,22 +20,23 @@
 
 <img src="https://github.com/WardedC/WardedC/blob/output/snake.svg"/>
 
-<table style="width: 100%; height: 300px; border-collapse: collapse; table-layout: fixed;">
-    <tr>
-        <!-- Única Columna que ocupa todo el espacio -->
+<table style="width: 100%; height: 100vh; border-collapse: collapse; table-layout: fixed;">
+    <tr style="height: 50%;">
+        <!-- Primera Fila -->
         <td style="border: 1px solid #ccc; text-align: center; vertical-align: middle; padding: 10px;">
             <h2>🚀 Tecnologías que domino</h2>
             <img src="https://skillicons.dev/icons?i=html,css,angular,js,ts" alt="Tech stack" />
         </td>
     </tr>
-    <tr>
-        <!-- Única Columna que ocupa todo el espacio -->
+    <tr style="height: 50%;">
+        <!-- Segunda Fila -->
         <td style="border: 1px solid #ccc; text-align: center; vertical-align: middle; padding: 10px;">
             <h2>🌱 Tecnologías que estoy aprendiendo</h2>
             <img src="https://skillicons.dev/icons?i=cs,dotnet,python,sql" alt="Learning stack" />
         </td>
     </tr>
 </table>
+
 
 
 
