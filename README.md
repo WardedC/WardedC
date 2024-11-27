@@ -46,7 +46,7 @@
 </p>
 
 
-<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />
+![snake gif](https://github.com/WardedC/WardedC/blob/output/github-snake-dark.svg)
 
 ---
 
