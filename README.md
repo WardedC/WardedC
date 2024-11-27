@@ -20,37 +20,20 @@
 
 <img src="https://github.com/WardedC/WardedC/blob/output/snake.svg"/>
 
-<div style="display: flex; gap: 20px;">
-  <div style="flex: 1;">
-    <h3>Columna 1</h3>
-    <p>Este es el contenido de la primera columna.</p>
-  </div>
-  <div style="flex: 1;">
-    <h3>Columna 2</h3>
-    <p>Este es el contenido de la segunda columna.</p>
-  </div>
-  <div style="flex: 1;">
-    <h3>Columna 3</h3>
-    <p>Este es el contenido de la tercera columna.</p>
-  </div>
-</div>
-
-
-<div align="center" style="display: flex; flex-direction: column; gap: 20px; max-width: 100%;">
-    <div style="display: flex; justify-content: center; margin-bottom: 20px;">
-    🚀 Tecnologías que domino
-            <div class="iconos" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-               <img src="https://skillicons.dev/icons?i=html,css,angular,js,ts" alt="Tech stack" />
-            </div>
+<div style="display: flex; flex-direction: column; gap: 20px;">
+  <!-- Fila Template -->
+  <div style="display: flex; gap: 20px;">
+    <div style="flex: 1; background-color: #f0f0f0; padding: 10px;">
+      <h2>🚀 Tecnologías que domino</h2>
+      <img src="https://skillicons.dev/icons?i=html,css,angular,js,ts" alt="Tech stack" />
     </div>
-    <div class="bottom-images" style="display: flex; justify-content: space-between;">
-      🌱 Tecnologías que estoy aprendiendo
-            <div class="iconos" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-                 <img src="https://skillicons.dev/icons?i=cs,dotnet,python,sql" alt="Learning stack" />
-            </div>
+    <div style="flex: 1; background-color: #f0f0f0; padding: 10px;">
+      <h2>🌱 Tecnologías que estoy aprendiendo</h2>
+       <img src="https://skillicons.dev/icons?i=cs,dotnet,python,sql" alt="Learning stack" />
     </div>
   </div>
 </div>
+
 
 ---
 
