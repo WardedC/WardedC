@@ -45,9 +45,12 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="Coding Gif" width="500" />
 </p>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" alt="Snake animation" />
-</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gife" src="github-snake.svg" />
+</picture>
 
 ---
 
