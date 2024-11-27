@@ -46,10 +46,7 @@
 </p>
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <img alt="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gife" src="github-snake.svg" />
-</picture>
+<img src="https://github.com/WardedC/WardedC/output/snake.svg" alt="Snake animation" />
 
 ---
 
