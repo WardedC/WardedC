@@ -5,6 +5,8 @@
   Actualmente estoy explorando el desarrollo backend y los fundamentos de la ciencia de datos.
 </p>
 
+![snake gif](https://github.com/WardedC/WardedC/blob/output/snake.svg)
+
 ---
 
 <h2 align="center">🚀 Tecnologías que domino</h2>
@@ -45,8 +47,6 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="Coding Gif" width="500" />
 </p>
 
-
-![snake gif](https://github.com/WardedC/WardedC/blob/output/snake.svg)
 
 ---
 
