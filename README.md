@@ -22,7 +22,7 @@
 ---
 
 <h2 align="center">📊 Estadísticas de GitHub</h2>
-<div align="center" style="display: flex; flex-wrap: nowrap; justify-content: center; align-items: center; gap: 10px; max-width: 100%;">
+<div align="center" style="display: flex; flex-wrap: nowrap; justify-content: center; align-items: center; gap: 10px;">
   <!-- Stats Overview -->
   <div style="flex: 1; min-width: 200px; max-width: 300px;">
     <img src="https://github-readme-stats.vercel.app/api?username=WardedC&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 45%;" />
