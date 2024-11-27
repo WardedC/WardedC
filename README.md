@@ -1,6 +1,5 @@
  ![snake gif](https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif)
 <h1 align="center">👋 ¡Hola! Soy <strong>Edward Cabrera</strong></h1>
-<p align="center">
   💻 <strong>Ingeniero en Sistemas apasionado por la tecnología.</strong><br>
   Me encanta construir aplicaciones web modernas, aprender nuevas tecnologías y resolver problemas complejos. 💡<br>
   Actualmente estoy explorando el desarrollo backend y los fundamentos de la ciencia de datos.
