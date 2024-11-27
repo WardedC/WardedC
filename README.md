@@ -46,7 +46,7 @@
 </p>
 
 
-![snake gif](https://github.com/WardedC/WardedC/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/WardedC/WardedC/blob/output/snake.svg)
 
 ---
 
