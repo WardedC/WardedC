@@ -47,7 +47,7 @@
   <a href="https://twitter.com/tu_usuario" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter">
   </a>
-  <a href="https://github.com/TU_USUARIO" target="_blank">
+  <a href="https://github.com/WardedC" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
   </a>
 </p>
