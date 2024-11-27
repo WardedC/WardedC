@@ -44,6 +44,10 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="Coding Gif" width="500" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WardedC/WardedC/main/example-raw-content.svg" alt="Contenido desde Raw GitHub" width="600" />
+</p>
+
 ---
 
 <h2 align="center">🌐 Encuéntrame en:</h2>
