@@ -20,6 +20,26 @@
 
 <img src="https://github.com/WardedC/WardedC/blob/output/snake.svg"/>
 
+
+
+---
+
+
+
+<p>
+  <h2 align="center">🚀 Tecnologías que domino</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,angular,js,ts" alt="Tech stack" />
+</p>
+<p>
+  <h2 align="center">🌱 Tecnologías que estoy aprendiendo</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,sql" alt="Learning stack" />
+</p>
+</p>
+</p>
+
+
 <table style="width: 100%; height: 300px; border-collapse: collapse; table-layout: fixed;">
     <tr>
         <!-- Primera Columna -->
@@ -35,14 +55,6 @@
     </tr>
 </table>
 
-
-
-
-
-
-
----
-
 <h2 align="center">🌐 Encuéntrame en:</h2>
 <p align="center">
   <a href="https://linkedin.com/in/tu_usuario" target="_blank">
@@ -55,8 +67,6 @@
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
   </a>
 </p>
-
----
 
 <h3 align="center">✨ ¡Gracias por visitar mi perfil! ✨</h3>
 <p align="center">
