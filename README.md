@@ -20,6 +20,21 @@
 
 <img src="https://github.com/WardedC/WardedC/blob/output/snake.svg"/>
 
+<table style="width: 100%; border-collapse: collapse;">
+    <tr>
+        <!-- Primera Columna -->
+        <td style="width: 50%; text-align: center; border: 1px solid #ccc; padding: 10px;">
+            <h2>Título 1</h2>
+            <div style="width: 40px; height: 40px; background-color: #ddd; display: flex; align-items: center; justify-content: center; border-radius: 50%;">A</div>
+        </td>
+        <!-- Segunda Columna -->
+        <td style="width: 50%; text-align: center; border: 1px solid #ccc; padding: 10px;">
+            <h2>Título 2</h2>
+            <div style="width: 40px; height: 40px; background-color: #ddd; display: flex; align-items: center; justify-content: center; border-radius: 50%;">B</div>
+        </td>
+    </tr>
+</table>
+
 
 <h2 align="center">🚀 Tecnologías que domino</h2>
 <p align="center">
