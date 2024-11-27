@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WardedC/WardedC/main/example-raw-content.svg" alt="Contenido desde Raw GitHub" width="600" />
+  <img src="https://raw.githubusercontent.com/kogisin/kogisin/main/assets/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" width="600" />
 </p>
 
 ---
@@ -68,4 +68,16 @@
   <img src="https://img.shields.io/badge/-Let's%20Connect!-red?style=for-the-badge" alt="Let's Connect" />
 </p>
 
-
+<style>
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+    transform: translateY(0); 
+  }
+  40% {
+    transform: translateY(-20px);
+  }
+  60% {
+    transform: translateY(-10px);
+  }
+}
+</style>
