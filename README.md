@@ -29,31 +29,11 @@
         </td>
         <!-- Segunda Columna -->
         <td style="width: 50%; text-align: center; border: 1px solid #ccc; padding: 10px;">
-            <h2>Título 2</h2>
-            <div style="width: 40px; height: 40px; background-color: #ddd; display: flex; align-items: center; justify-content: center; border-radius: 50%;">B</div>
+            <h2 align="center">🌱 Tecnologías que estoy aprendiendo</h2>
+            <img src="https://skillicons.dev/icons?i=cs,dotnet,python,sql" alt="Learning stack" />
         </td>
     </tr>
 </table>
-
-
-<h2 align="center">🚀 Tecnologías que domino</h2>
-<p align="center">
-  
-</p>
-
----
-
-<h2 align="center">🌱 Tecnologías que estoy aprendiendo</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,sql" alt="Learning stack" />
-</p>
-
----
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="Coding Gif" width="500" />
-</p>
 
 
 ---
