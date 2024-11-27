@@ -7,14 +7,11 @@
 
 ![snake gif](https://github.com/WardedC/WardedC/blob/output/snake.svg)
 
----
 
 <h2 align="center">🚀 Tecnologías que domino</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,angular,js,ts" alt="Tech stack" />
 </p>
-
----
 
 <h2 align="center">🌱 Tecnologías que estoy aprendiendo</h2>
 <p align="center">
