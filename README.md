@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola! Soy <strong>[Tu Nombre/Usuario]</strong></h1>
+<h1 align="center">👋 ¡Hola! Soy <strong>Edward F. Cabrera</strong></h1>
 <p align="center">
   👨‍💻 <strong>Ingeniero en Sistemas apasionado por la tecnología.</strong><br>
   Me encanta construir aplicaciones web modernas, aprender nuevas tecnologías y resolver problemas complejos. 💡<br>
