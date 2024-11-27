@@ -1,3 +1,4 @@
+ ![snake gif](https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif)
 <h1 align="center">👋 ¡Hola! Soy <strong>Edward Cabrera</strong></h1>
 <p align="center">
   💻 <strong>Ingeniero en Sistemas apasionado por la tecnología.</strong><br>
@@ -18,7 +19,7 @@
   <img src="https://skillicons.dev/icons?i=cs,dotnet,python,sql" alt="Learning stack" />
 </p>
 
----
+
 
 <h2 align="center">🚀 Estadísticas de GitHub</h2>
 <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px; max-width: 100%;">
