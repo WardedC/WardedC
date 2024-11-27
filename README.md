@@ -22,15 +22,15 @@
 ---
 
 <h2 align="center">📊 Estadísticas de GitHub</h2>
-<div align="center" style="display: flex; justify-content: center;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <!-- Stats Overview -->
-  <img src="https://github-readme-stats.vercel.app/api?username=WardedC&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WardedC&show_icons=true&theme=radical" alt="GitHub Stats" style="animation: bounce 3s infinite;" />
   
   <!-- Contribution Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WardedC&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WardedC&theme=radical" alt="GitHub Streak" style="animation: bounce 3s infinite; animation-delay: 1s;" />
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WardedC&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WardedC&layout=compact&theme=radical" alt="Top Languages" style="animation: bounce 3s infinite; animation-delay: 2s;" />
 </div>
 
 ---
@@ -38,6 +38,10 @@
 <h2 align="center">📊 Grid de mis contribuciones</h2>
 <p align="center">
   <img src="https://github.com/WardedC/WardedC/blob/main/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="Coding Gif" width="500" />
 </p>
 
 ---
@@ -55,8 +59,6 @@
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
 ---
 
 <h3 align="center">✨ ¡Gracias por visitar mi perfil! ✨</h3>
@@ -66,3 +68,17 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Let's%20Connect!-red?style=for-the-badge" alt="Let's Connect" />
 </p>
+
+<style>
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+    transform: translateY(0); 
+  }
+  40% {
+    transform: translateY(-20px);
+  }
+  60% {
+    transform: translateY(-10px);
+  }
+}
+</style>
