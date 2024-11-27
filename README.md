@@ -22,19 +22,20 @@
 
 <table style="width: 100%; height: 300px; border-collapse: collapse; table-layout: fixed;">
     <tr>
-        <!-- Primera Columna -->
+        <!-- Única Columna que ocupa todo el espacio -->
         <td style="border: 1px solid #ccc; text-align: center; vertical-align: middle; padding: 10px;">
             <h2>🚀 Tecnologías que domino</h2>
             <img src="https://skillicons.dev/icons?i=html,css,angular,js,ts" alt="Tech stack" />
         </td>
-        <!-- Segunda Columna -->
+    </tr>
+    <tr>
+        <!-- Única Columna que ocupa todo el espacio -->
         <td style="border: 1px solid #ccc; text-align: center; vertical-align: middle; padding: 10px;">
             <h2>🌱 Tecnologías que estoy aprendiendo</h2>
             <img src="https://skillicons.dev/icons?i=cs,dotnet,python,sql" alt="Learning stack" />
         </td>
     </tr>
 </table>
-
 
 
 
