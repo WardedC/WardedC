@@ -6,7 +6,8 @@
   Actualmente estoy explorando el desarrollo backend y los fundamentos de la ciencia de datos.
 </p>
 
-![snake gif](https://github.com/WardedC/WardedC/blob/output/snake.svg)
+<img src="https://github.com/WardedC/WardedC/blob/output/snake.svg"/>
+
 
 
 <h2 align="center">🚀 Tecnologías que domino</h2>
@@ -25,18 +26,18 @@
 <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px; max-width: 100%;">
   <!-- Estadísticas Generales (Centradas en la parte superior) -->
   <div style="flex: 1; min-width: 200px; max-width: 600px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=WardedC&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 100%; max-width: 100px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=WardedC&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 40%; max-width: 100px;" />
   </div>
 
   <!-- Estadísticas en la Parte Inferior (Lado a Lado) -->
   <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
     <!-- Racha de Contribuciones -->
     <div style="flex: 1; min-width: 200px; max-width: 300px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=WardedC&theme=radical" alt="GitHub Streak" style="width: 100%; max-width: 100px;" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=WardedC&theme=radical" alt="GitHub Streak" style="width: 40%; max-width: 100px;" />
     </div>
     <!-- Lenguajes Más Utilizados -->
     <div style="flex: 1; min-width: 200px; max-width: 300px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WardedC&layout=compact&theme=radical" alt="Top Languages" style="width: 100%; max-width: 100px;" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WardedC&layout=compact&theme=radical" alt="Top Languages" style="width: 40%; max-width: 100px;" />
     </div>
   </div>
 </div>
