@@ -29,7 +29,7 @@
 <p>
   <h2 align="center">🚀 Tecnologías y herramientas que domino</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,angular,js,ts,github,git,npm,vscode,postman,obsidian,notion" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,angular,js,ts,wordpress,github,git,npm,vscode,postman,obsidian,notion" alt="Tech stack" />
 </p>
 <p>
   <h2 align="center">🌱 Tecnologías que estoy aprendiendo</h2>
