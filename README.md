@@ -27,14 +27,14 @@
 
 
 <p>
-  <h2 align="center">🚀 Tecnologías que domino</h2>
+  <h2 align="center">🚀 Tecnologías y herramientas que domino</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,angular,js,ts" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,angular,js,ts,github,git,npm,vscode,postman,obsidian,notion" alt="Tech stack" />
 </p>
 <p>
   <h2 align="center">🌱 Tecnologías que estoy aprendiendo</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,MySQL,raspberrypi" alt="Learning stack" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,php,nginx,mysql,python,linux,raspberrypi" alt="Learning stack" />
 </p>
 </p>
 </p>
