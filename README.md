@@ -34,7 +34,7 @@
 <p>
   <h2 align="center">🌱 Tecnologías que estoy aprendiendo</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,sql,raspberrypi" alt="Learning stack" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,MySQL,raspberrypi" alt="Learning stack" />
 </p>
 </p>
 </p>
