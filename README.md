@@ -13,7 +13,7 @@
     </div>
     <div class="bottom-images" style="display: flex; justify-content: space-between;">
       <img src="https://github-readme-stats.vercel.app/api?username=WardedC&show_icons=true&theme=radical" alt="Imagen inferior izquierda" style="width: 45%; height: auto;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WardedC&layout=compact&theme=radical" alt="Imagen inferior derecha" style="width: 40%; height: auto;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WardedC&layout=compact&theme=radical" alt="Imagen inferior derecha" style="width: 45%; height: auto;">
     </div>
   </div>
 </div>
