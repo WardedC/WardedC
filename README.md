@@ -4,9 +4,11 @@
   💻 <strong>Ingeniero en Sistemas apasionado por la tecnología.</strong><br>
   Me encanta construir aplicaciones web modernas, aprender nuevas tecnologías y resolver problemas complejos. 💡<br>
   Actualmente estoy explorando el desarrollo backend y los fundamentos de la ciencia de datos.
-
+  <br>
   Correo: edw23cabrera@gmail.com
 </p>
+
+
 
 <h2 align="center">🚀 Estadísticas de GitHub</h2>
 <div align="center" style="display: flex; flex-direction: column; gap: 20px; max-width: 100%;">
